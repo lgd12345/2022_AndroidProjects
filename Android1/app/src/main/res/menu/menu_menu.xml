@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_info"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="내 정보" />
+    <item
+        android:id="@+id/item_report"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="리포트" />
+    <item
+        android:id="@+id/item_setting"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="계정설정" />
+    <item
+        android:id="@+id/item_notice"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="공지사항" />
+    <item
+        android:id="@+id/item_service_center"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="고객센터" />d
+</menu>

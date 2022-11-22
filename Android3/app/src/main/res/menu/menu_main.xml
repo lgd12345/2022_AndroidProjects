@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_nasa"
+        android:title="우주사진"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_all"
+        android:title="전체보기"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_health"
+        android:title="건강"
+        app:showAsAction="collapseActionView" />
+</menu>

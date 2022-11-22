@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- external-path외부 패스   사진 찍어서 저장할 위치 지정  -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="my_images"
+        path="Android/data/com.example.tfapp/files/Pictures"/>
+</paths>

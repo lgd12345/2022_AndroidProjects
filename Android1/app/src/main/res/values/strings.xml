@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">천둥검의 주인을 찾아라!!!!!</string>
+    <string name="drawer_opened">Opened
+Drawer</string>
+    <string name="drawer_closed">Closed
+Drawer</string>
+    <string name="hello_blank_fragment">Hello blank
+    fragment</string>
+    <string name="two">여기는 광고를 넣으려고 했다! 귤사세요! 한 상자에 100,000원</string>
+    <string name="three">여기는 광고를 넣으려고 했다! 사과사세요! 한 상자에 100,000원</string>
+
+</resources>
