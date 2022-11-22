@@ -1,6 +1,6 @@
 # 2022_AndroidProjects
 
-- -안드로이드 스튜디오-
+☘ -안드로이드 스튜디오-
 - choose a device definition _ (Pixel XL)
 - select a system image_ Recommended _ (S)
 
